@@ -1,0 +1,2 @@
+# TypeScript_React_Next_Sample
+このリポジトリはTypeScriptとReact/Nextでつくる実践Webアプリケーションの学習用ブランチです。
